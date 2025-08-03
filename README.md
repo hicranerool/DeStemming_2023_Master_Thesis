@@ -18,7 +18,7 @@ The analysis is based on responses from over **2,100 adults living in Flanders**
 - Parenthood  
 - Gendered parenthood  
 
-### ✔ Logistic Regression Models  
+### ✔ Regression Models  
 Across **10 policy issue areas**:  
 - Social security  
 - Healthcare  
